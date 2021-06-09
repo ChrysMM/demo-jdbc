@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo-jdbc" options="-parameters" />
+      <module name="demo-jdbc" options="" />
     </option>
   </component>
 </project>
